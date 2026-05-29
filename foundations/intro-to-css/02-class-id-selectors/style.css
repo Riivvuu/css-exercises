@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 p {
     background-color: lightcoral;
-    font: Verdana, DejaVu Sans, sans-serif;
+    font: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .cool {
