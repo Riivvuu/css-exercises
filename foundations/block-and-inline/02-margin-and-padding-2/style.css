@@ -5,7 +5,7 @@ body {
 }
 
 .card {
-  width: 800px;
+  width: 400px;
   background: #fff;
   margin: 16px auto;
   padding: 16px;
@@ -15,6 +15,7 @@ body {
   background: #e3f4ff;
   margin: 12px;
   padding: 12px;
+  font-size: 16px;
 }
 
 .content {
@@ -30,9 +31,10 @@ body {
   padding: 12px;
 }
 
-.button {
+button {
   background: white;
   border: 1px solid #eee;
+  display: block;
   margin: 0 auto;
   padding: 8px 24px;
 }
