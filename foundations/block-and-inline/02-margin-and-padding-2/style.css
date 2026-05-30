@@ -11,6 +11,9 @@ body {
 
 .title {
   background: #e3f4ff;
+  margin: 12px;
+  margin-top: 16px;
+  padding: 12px;
 }
 
 .content {
