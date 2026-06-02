@@ -28,5 +28,6 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  gap: 4px;
 }
