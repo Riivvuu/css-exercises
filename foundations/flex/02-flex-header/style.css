@@ -5,7 +5,7 @@
   /* this will space out the items in the header */
   justify-content: space-between;
   /* this will align the items in the center of the header */
-  padding: 16px;
+  padding: 8px;
 }
 
 .logo {
