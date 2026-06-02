@@ -1,6 +1,11 @@
-.header  {
+.header {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  /* this will space out the items in the header */
+  justify-content: space-between;
+  /* this will align the items in the center of the header */
+  padding: 16px;
 }
 
 .logo {
