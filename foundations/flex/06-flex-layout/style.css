@@ -69,6 +69,7 @@ ul li a {
   padding: 16px;
   justify-content: center;
   align-items: center;
+  height: 100 vh;
 }
 
 button {
