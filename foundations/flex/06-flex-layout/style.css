@@ -25,19 +25,17 @@ input {
   width: 400px;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0 16px;
+  margin-left: 0;
 }
 
 .footer {
   background: #dbdbdb;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 16px;
 }
 
 .left-links,
