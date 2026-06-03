@@ -14,13 +14,16 @@ body {
   align-items: center;
   padding: 0 16px;
   font-size: 32px;
-  font-weight: bold;
+  font-weight: 800;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
