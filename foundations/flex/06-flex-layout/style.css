@@ -31,7 +31,6 @@ input {
   justify-content: space-between;
   align-items: center;
   padding: 0 16px;
-  margin-left: 0;
 }
 
 .footer {
@@ -51,4 +50,12 @@ input {
 
 .right-links {
   justify-content: flex-end;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  align-items: center;
 }
