@@ -31,10 +31,13 @@ ul {
   padding: 16px;
 }
 
+ul li {
+  margin-bottom: 8px;
+}
+
 ul li a {
   text-decoration: none;
   color: white;
-  margin-bottom: 8px;
 }
 
 .card {
