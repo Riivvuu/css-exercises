@@ -39,7 +39,7 @@ input {
 
 ul {
   list-style: none;
-  padding: 8px 16px;
+  padding: 16px 8px;
   margin: 0;
 }
 
@@ -51,7 +51,7 @@ ul li a {
 .left-links,
 .right-links {
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .left-links {
@@ -69,4 +69,8 @@ ul li a {
   padding: 16px;
   justify-content: center;
   align-items: center;
+}
+
+.buttons {
+  padding: 8px;
 }
