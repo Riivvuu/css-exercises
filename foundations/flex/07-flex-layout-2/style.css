@@ -32,13 +32,13 @@ body {
   box-sizing: border-box;
   flex-shrink: 0;
   padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 ul {
   list-style: none;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
 }
 
 ul li {
