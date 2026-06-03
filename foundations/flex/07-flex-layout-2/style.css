@@ -52,7 +52,6 @@ ul li a {
 }
 
 .content {
-  flex: 1;
   display: flex;
   gap: 32px;
   padding: 48px;
