@@ -24,7 +24,6 @@ body {
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  gap: 16px;
 }
 
 ul {
@@ -35,6 +34,7 @@ ul {
 ul li a {
   text-decoration: none;
   color: white;
+  margin-bottom: 8px;
 }
 
 .card {
