@@ -32,17 +32,19 @@ body {
   box-sizing: border-box;
   flex-shrink: 0;
   padding: 16px;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
 }
 
 ul {
   list-style: none;
 }
 
-ul li {
-  margin-bottom: 16px;
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 ul li a {
