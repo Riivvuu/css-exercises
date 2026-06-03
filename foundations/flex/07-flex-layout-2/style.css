@@ -36,16 +36,16 @@ body {
 
 ul {
   list-style: none;
-  padding: 16px;
 }
 
 ul li {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 ul li a {
   text-decoration: none;
   color: white;
+  font-size: 24px;
 }
 
 .card {
