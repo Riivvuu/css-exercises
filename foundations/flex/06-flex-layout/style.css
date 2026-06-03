@@ -37,9 +37,17 @@ input {
   background: #dbdbdb;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  color: inherit;
+}
+
 .left-links,
 .right-links {
-  list-style: none;
   display: flex;
   gap: 8px;
 }
