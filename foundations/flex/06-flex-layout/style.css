@@ -33,7 +33,7 @@ input {
 }
 
 .footer {
-  background: #8b8b8b;
+  background: #dbdbdb;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -42,6 +42,7 @@ input {
 
 .left-links,
 .right-links {
+  list-style: none;
   display: flex;
   gap: 8px;
 }
