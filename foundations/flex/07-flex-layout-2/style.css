@@ -22,12 +22,14 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 ul {
   list-style: none;
   padding: 16px;
-  margin: 16px;
 }
 
 ul li a {
